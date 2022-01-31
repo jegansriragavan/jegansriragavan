@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)
+- 👨‍💻 All of my projects are available at (Coming Soon)
 
 - 📫 How to reach me **sriragavanjegan@gamil.com**
 
