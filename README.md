@@ -1,4 +1,4 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+![MasterHead](https://miro.medium.com/max/1400/1*n3TBO5i8hrYAujlhiHoE_w.gif)
 
 <h1 align="center">Hi 👋, I'm Jegan Sriragavan</h1>
 <h3 align="center">Passionate towards Machine Learning & Cloud Computing</h3>
